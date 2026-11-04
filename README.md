@@ -2,7 +2,7 @@
 
 An add-on for [ShotgunPlus](https://thunderstore.io/c/lethal-company/p/SleepyMiles/ShotgunPlus/): four new shells, each with its own colour and job. Every player needs the mod; all settings come from the host.
 
-> **Every shell is off by default.** Turn on the ones you want in the config.
+> **Every shell is on by default.** Turn off the ones you don't want in the config.
 
 ## Shells
 
@@ -29,10 +29,10 @@ Damage to enemies is in shovel hits (an Eyeless Dog has 12 HP, a Thumper 4, a Fo
 
 | Section | Settings |
 |---|---|
-| Slug Shell | Enabled (false), Price (70), ScrapRarity (6), Damage (4), PlayerDamage (80) |
-| Bird Shell | Enabled (false), Price (50), ScrapRarity (3), Pellets (20), DamagePerPellet (0.4), PlayerDamagePerPellet (10) |
-| Magnum Shell | Enabled (false), Price (150), ScrapRarity (1), Pellets (6), DamagePerPellet (3), PlayerDamagePerPellet (40) |
-| Dragon Shell | Enabled (false), Price (150), ScrapRarity (1), Pellets (8), DamagePerPellet (0.5), PlayerDamagePerPellet (15), BurnDamage (2), BurnSeconds (2), BurnForestKeepers (true) |
+| Slug Shell | Enabled (true), Price (70), ScrapRarity (6), Damage (4), PlayerDamage (80) |
+| Bird Shell | Enabled (true), Price (50), ScrapRarity (3), Pellets (20), DamagePerPellet (0.4), PlayerDamagePerPellet (10) |
+| Magnum Shell | Enabled (true), Price (150), ScrapRarity (1), Pellets (6), DamagePerPellet (3), PlayerDamagePerPellet (40) |
+| Dragon Shell | Enabled (true), Price (150), ScrapRarity (1), Pellets (8), DamagePerPellet (0.5), PlayerDamagePerPellet (15), BurnDamage (2), BurnSeconds (2), BurnForestKeepers (true) |
 | Nutcracker | LoadChance (10 %), DropChance (10 %) |
 
 Buck Shell's price and rarity (10) are in ShotgunPlus' config.
