@@ -8,7 +8,7 @@ An add-on for [ShotgunPlus](https://thunderstore.io/c/lethal-company/p/SleepyMil
 
 | Shell | Store | Scrap | What it does |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/SleepyMiles/MoreShotgunShells/main/images/shell_buck.png" width="56"><br>**Buck Shell** | $50 | common | The vanilla shell, from ShotgunPlus. **10 pellets**, normal spread. Enemies take 1, 2, 2, 3, 3... damage depending on how many pellets land (6 if all hit). 20 per pellet to a player. |
+| <img src="https://raw.githubusercontent.com/SleepyMiles/MoreShotgunShells/main/images/shell_buck.png" width="56"><br>**Buck Shell** | $50 | common | The vanilla shell, from ShotgunPlus (it scans as Buck Shell). **10 pellets**, normal spread. Enemies take 1, 2, 2, 3, 3... damage depending on how many pellets land (6 if all hit). 20 per pellet to a player. |
 | <img src="https://raw.githubusercontent.com/SleepyMiles/MoreShotgunShells/main/images/shell_slug.png" width="56"><br>**Slug Shell** | $70 | uncommon | **One precise shot** instead of a spread: **4 damage**, no spread at any range. 80 to a player. In Choke mode it just flies straight. |
 | <img src="https://raw.githubusercontent.com/SleepyMiles/MoreShotgunShells/main/images/shell_bird.png" width="56"><br>**Bird Shell** | $50 | rare | **20 small pellets**, a much wider spread. **0.4 per pellet**: weaker per pellet than Buck, but **8** if all of them hit, so it's best close to medium range. 10 per pellet to a player. |
 | <img src="https://raw.githubusercontent.com/SleepyMiles/MoreShotgunShells/main/images/shell_magnum.png" width="56"><br>**Magnum Shell** | $150 | rarest | **6 heavy, high-power pellets**, normal spread. **3 per pellet**: 4 hits are 12, enough to drop an **Eyeless Dog** in one shot. 40 per pellet to a player. |
